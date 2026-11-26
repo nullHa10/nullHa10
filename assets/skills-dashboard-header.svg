@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Skills Dashboard">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="60%" stop-color="#132326"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2A9D8F"><animate attributeName="stop-color" values="#2A9D8F;#58E1C1;#2A9D8F" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#58E1C1"><animate attributeName="stop-color" values="#58E1C1;#2A9D8F;#58E1C1" dur="5s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="138" rx="18" fill="url(#bg)" stroke="#22363A"/>
+  <rect x="1" y="1" width="1198" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
+  <g fill="#58E1C1" opacity="0.12">
+    <circle cx="80" cy="30" r="2"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="110" r="2"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="35" r="2"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="105" r="2"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="3.8s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#E6EDF3">Skills Dashboard</text>
+  <text x="600" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#8B949E">A clean, professional snapshot of my technical toolkit</text>
+  <rect x="470" y="106" width="260" height="2" fill="url(#accent)" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

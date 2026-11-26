@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="20%" stop-color="#2A9D8F" />
+      <stop offset="50%" stop-color="#58E1C1" />
+      <stop offset="80%" stop-color="#2A9D8F" />
+      <stop offset="100%" stop-color="#0D1117" />
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="0" y="11" width="1000" height="2" fill="url(#g)" opacity="0.95" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="500" cy="12" r="3" fill="#58E1C1">
+    <animate attributeName="r" values="2.5;4;2.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
