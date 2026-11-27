@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-label="Frontend Development">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#18212B"/><stop offset="100%" stop-color="#141B23"/></linearGradient>
+    <linearGradient id="top" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#141B23" stop-opacity="0"/><stop offset="50%" stop-color="#2A9D8F" stop-opacity="0.7"/><stop offset="100%" stop-color="#141B23" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="358" height="318" rx="18" fill="url(#bg)" stroke="#233041"/>
+  <rect x="24" y="1" width="312" height="1.5" fill="url(#top)"/>
+  <g transform="translate(28,28)">
+    <rect width="52" height="52" rx="14" fill="#16343A" stroke="#235A56"/>
+    <g transform="translate(13,13)" stroke="#2A9D8F" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/><path d="M7 8l-2 2 2 2M17 8l2 2-2 2M13 7l-2 6"/></g>
+  </g>
+  <text x="28" y="108" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#E6EDF3">Frontend Development</text>
+  <text x="28" y="132" font-family="Arial, sans-serif" font-size="13" fill="#8B949E">Interfaces, UX &amp; responsive UI</text>
+  <g transform="translate(28,168)"><rect width="79" height="30" rx="8" fill="#1B2430" stroke="#2A3441"/><circle cx="15" cy="15" r="4" fill="#61DAFB"/><text x="27" y="19" font-family="Arial, sans-serif" font-size="12.5" fill="#D7DDE3">React</text></g><g transform="translate(117,168)"><rect width="115" height="30" rx="8" fill="#1B2430" stroke="#2A3441"/><circle cx="15" cy="15" r="4" fill="#F7DF1E"/><text x="27" y="19" font-family="Arial, sans-serif" font-size="12.5" fill="#D7DDE3">JavaScript</text></g><g transform="translate(242,168)"><rect width="79" height="30" rx="8" fill="#1B2430" stroke="#2A3441"/><circle cx="15" cy="15" r="4" fill="#E34F26"/><text x="27" y="19" font-family="Arial, sans-serif" font-size="12.5" fill="#D7DDE3">HTML5</text></g><g transform="translate(28,208)"><rect width="72" height="30" rx="8" fill="#1B2430" stroke="#2A3441"/><circle cx="15" cy="15" r="4" fill="#1572B6"/><text x="27" y="19" font-family="Arial, sans-serif" font-size="12.5" fill="#D7DDE3">CSS3</text></g><g transform="translate(110,208)"><rect width="129" height="30" rx="8" fill="#1B2430" stroke="#2A3441"/><circle cx="15" cy="15" r="4" fill="#06B6D4"/><text x="27" y="19" font-family="Arial, sans-serif" font-size="12.5" fill="#D7DDE3">Tailwind CSS</text></g><g transform="translate(28,248)"><rect width="107" height="30" rx="8" fill="#1B2430" stroke="#2A3441"/><circle cx="15" cy="15" r="4" fill="#7952B3"/><text x="27" y="19" font-family="Arial, sans-serif" font-size="12.5" fill="#D7DDE3">Bootstrap</text></g>
+</svg>

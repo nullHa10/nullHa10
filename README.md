@@ -32,87 +32,35 @@ I enjoy solving complex problems, working with data, learning new technologies, 
 ## Skills Dashboard
 
 <div align="center">
-  <img src="./assets/skills-dashboard-header.svg" alt="Skills Dashboard" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./assets/dashboard-divider.svg" alt="divider" width="100%" />
+  <p><em>A clean, modern snapshot of the technologies I use to build, analyze, and ship.</em></p>
 </div>
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16363A&height=52&text=Backend%20Development&fontSize=20&fontColor=58E1C1" alt="Backend Development" width="100%" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,laravel,python&theme=dark&perline=3" alt="Backend icons" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <td width="50%" valign="top">
+      <img src="./assets/skills-dashboard/backend.svg" alt="Backend Development skills" width="100%" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16363A&height=52&text=Frontend%20Development&fontSize=20&fontColor=58E1C1" alt="Frontend Development" width="100%" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark&perline=3" alt="Frontend icons" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16363A&height=52&text=Programming%20Languages&fontSize=20&fontColor=58E1C1" alt="Programming Languages" width="100%" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,python,js&theme=dark&perline=3" alt="Programming language icons" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-0B7285?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+    <td width="50%" valign="top">
+      <img src="./assets/skills-dashboard/frontend.svg" alt="Frontend Development skills" width="100%" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16363A&height=52&text=Databases&fontSize=20&fontColor=58E1C1" alt="Databases" width="100%" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark&perline=3" alt="Database icons" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <td width="50%" valign="top">
+      <img src="./assets/skills-dashboard/languages.svg" alt="Programming Languages skills" width="100%" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16363A&height=52&text=Data%20Science%20%26%20ML&fontSize=20&fontColor=58E1C1" alt="Data Science and Machine Learning" width="100%" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark&perline=3" alt="Data science icons" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+    <td width="50%" valign="top">
+      <img src="./assets/skills-dashboard/databases.svg" alt="Databases skills" width="100%" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16363A&height=52&text=Development%20Tools&fontSize=20&fontColor=58E1C1" alt="Development Tools" width="100%" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,latex&theme=dark&perline=3" alt="Development tool icons" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/skills-dashboard/data-science.svg" alt="Data Science and Machine Learning skills" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/skills-dashboard/tools.svg" alt="Development Tools skills" width="100%" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="./assets/dashboard-divider.svg" alt="divider" width="100%" />
-</div>
 
 ## Featured Projects
 
